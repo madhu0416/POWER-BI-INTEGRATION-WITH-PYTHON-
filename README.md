@@ -1,1 +1,32 @@
 # POWER-BI-INTEGRATION-WITH-PYTHON-
+COMPANY NAME : CODETECH IT SOLUTIONS
+
+NAME: MADHURA SHETE
+
+INTERN ID: CT08IJX
+
+DOMAIN : POWER BI
+
+DURATION : 4 WEEKS
+
+MENTOR NAME: NEELA SANTOSH
+
+ShopEasy, an online retail business, is seeking assistance to address challenges in customer engagement and conversion rates despite launching new marketing campaigns.
+
+Key Points:
+- Reduced Customer Engagement: Decline in customer interactions and engagement with the site and marketing content.
+- Decreased Conversion Rates: Fewer site visitors are converting into paying customers.
+- High Marketing Expenses: Significant investments in campaigns are not yielding expected returns.
+- Need for Customer Feedback Analysis: Understanding customer opinions for enhancing engagement and conversions.
+- Conversion Rate: Percentage of website visitors making a purchase.
+- Customer Engagement Rate: Level of interaction with marketing content.
+- Average Order Value (AOV): Average amount spent per transaction.
+- Customer Feedback Score: Average rating from customer reviews.
+
+To address these issues:
+- Increase Conversion Rates: Identify factors impacting conversion rates and provide recommendations for improvement. Highlight key stages where visitors drop off and suggest enhancements for the conversion funnel.
+- Enhance Customer Engagement: Determine which content types drive the highest engagement. Analyze interaction levels with different content to improve content strategies.
+- Improve Customer Feedback Scores: Understand common themes in customer reviews to provide actionable insights. Identify recurring positive and negative feedback for product and service enhancements.
+
+  #OUTPUT
+  
